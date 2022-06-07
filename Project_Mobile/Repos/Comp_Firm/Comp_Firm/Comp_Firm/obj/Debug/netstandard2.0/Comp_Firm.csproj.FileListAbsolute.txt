@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\bin\Debug\netstandard2.0\Comp_Firm.deps.json
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\bin\Debug\netstandard2.0\Comp_Firm.dll
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\bin\Debug\netstandard2.0\ref\Comp_Firm.dll
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\bin\Debug\netstandard2.0\Comp_Firm.pdb
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.dll
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\ref\Comp_Firm.dll
+C:\Users\user\Source\Repos\Comp_Firm\Comp_Firm\Comp_Firm\obj\Debug\netstandard2.0\Comp_Firm.pdb
